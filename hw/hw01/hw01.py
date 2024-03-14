@@ -58,6 +58,7 @@ def largest_factor(n):
     else:
         (pre % tmp ) == 0
         return tmp
+    # ¸¾²ú¿Æ
         
 
 
