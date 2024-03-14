@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "c45ced46d2291a35",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2009d02bfa1511a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36b0ac75d0571860",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "kecture/未命名.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b7f3bbdd998b091e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba3120eee956c721",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a0a5f2a3972ee76",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "556b7eff07ecbc0b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "66e7206e26c77417",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c3087e50e95e32ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "19a15305e65dce0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "842fe77112e2b519",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "kecture/未命名.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6ed34b7f74d02e7d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "kecture/未命名.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2dbd505f7c566c35",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ed527db46bc1554d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "kecture/未命名.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "36b0ac75d0571860",
+  "lastOpenFiles": [
+    "kecture/未命名.md",
+    "lab/未命名.md",
+    "未命名.md",
+    "project",
+    "lab",
+    "kecture",
+    "未命名 1.md",
+    "未命名/未命名.canvas",
+    "未命名/未命名.md"
+  ]
+}
